@@ -17,7 +17,7 @@ And their applications; emptying the bucket, creating a DB instance, loading dat
 
 ### AWS Tutorial Syllabus
 
-  [1. What is AWS and its uses](https://github.com/vdbealman/AWS-tutorial/blob/main/what-is-aws.md)
+  1. [What is AWS and its uses](https://github.com/vdbealman/AWS-tutorial/blob/main/what-is-aws.md)
   2. Amazon Web Services S3
   3. AWS Relational Database
   4. Amazon Elastic Block Store (EBS)
